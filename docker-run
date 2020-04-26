@@ -1,3 +1,4 @@
 docker run -dt --restart=always --name DockerKit_Test \
 -v /var/run/docker.sock:/var/run/docker.sock \
+--network host
 dunklestoast/dockerkit:test
