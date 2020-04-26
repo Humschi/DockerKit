@@ -1,2 +1,2 @@
 #!/bin/sh
-node /tmp/DockerKit/src/Remote
+node /tmp/DockerKit/src/DockerKit
